@@ -1,14 +1,9 @@
-## ShinyAzure
+## shinyazure
 ```
-unremarkable trans person who does things
-```
-
-## contact
-```
-https://cloudx86.cc
+unremarkable person who does things
 ```
 
-## Sea Turtle (by lgb)
+## Sea Turtle
 ```
                 _,.---.---.---.--.._ 
             _.-' `--.`---.`---'-. _,`--.._
